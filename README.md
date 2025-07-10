@@ -13,4 +13,6 @@ Remember to enable the [LibreTranslate server](https://hub.docker.com/r/libretra
 
 Usually the translation is available only after the live broadcast is over, while the live broadcast is in the original language with subtitles in that language (if available)
 
+PS: If you have other scripts or addons for youtube they may conflict, so if you have problems disable them temporarily.
+
 
