@@ -8,3 +8,5 @@ Then install my script and enjoy the translation.
 To change target language change “target: 'it'” currently it is set to Italian.
 
 If you want here is a youtube link of the live [Goodwood Festival of Speed 2025](https://www.youtube.com/watch?v=GnRHgwn5F8k)
+
+Remember to enable the [LibreTranslate server](https://hub.docker.com/r/libretranslate/libretranslate) first and then the subtitles on the video
