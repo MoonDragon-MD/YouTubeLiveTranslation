@@ -7,7 +7,9 @@ Then install my script and enjoy the translation.
 
 To change target language change “target: 'it'” currently it is set to Italian.
 
-If they talk fast lower the control time “setInterval(startTranslationProcess, 500);” with 200 for example
+If they talk fast lower the control time “setInterval(startTranslationProcess, 500);” with 300 for example
+
+(but be careful not to turn it down too much or else the server won't have time to translate and display)
 
 If you want here is a youtube link of the live [Goodwood Festival of Speed 2025](https://www.youtube.com/watch?v=GnRHgwn5F8k)
 
