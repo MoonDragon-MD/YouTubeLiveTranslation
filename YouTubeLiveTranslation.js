@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         YouTube Dirette con Traduzione in Italiano tramite LibreTranslate
+// @name         YouTube Directs with Translation via LibreTranslate
 // @namespace    https://greasyfork.org/
 // @version      1.0
-// @description  Traduzione dei sottotitoli in diretta tramite LibreTranslate (localhost:5000)
+// @description  Live subtitle translation via LibreTranslate (localhost:5000)
 // @author       MoonDragon
 // @match        https://www.youtube.com/watch*
 // @grant        none
