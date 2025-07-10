@@ -20,3 +20,4 @@ Usually the translation is available only after the live broadcast is over, whil
 PS: If you have other scripts or addons for youtube they may conflict, so if you have problems disable them temporarily.
 
 
+![alt text](https://github.com/MoonDragon-MD/YouTubeLiveTranslation/blob/main/example.gif?raw=true)
